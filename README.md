@@ -1,16 +1,16 @@
-## Hi there 👋
+# Christian Hagedorny
 
-<!--
-**Hagedorny/Hagedorny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m currently transitioning into cybersecurity and cloud engineering, building hands-on projects to strengthen my skills in security, risk management, and cloud infrastructure.  
 
-Here are some ideas to get you started:
+## Current Focus
+- Cybersecurity (Security+, RMF, NIST, ISSO/GRC pathways)  
+- Cloud Engineering and Automation (AWS, Terraform, CI/CD)  
+- Security-focused Cloud Projects and Documentation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Cloud Resume Challenge](#) – Static site hosted on AWS with CI/CD pipeline and visitor counter.  
+- [Security Guardrails + Violation Scanner](#) – Work in progress, Terraform + Lambda-based compliance scanning tool.  
+- [Incident Response Automation Tool](#) – Planning phase, focused on AWS security response workflows.  
+
+## Contact
+Feel free to connect with me on [LinkedIn](#) or reach out directly.  
