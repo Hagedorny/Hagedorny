@@ -5,7 +5,8 @@ Welcome to my GitHub profile. I’m currently transitioning into cybersecurity a
 ## Current Focus
 - Cybersecurity (Security+, RMF, NIST, ISSO/GRC pathways)  
 - Cloud Engineering and Automation (AWS, Terraform, CI/CD)  
-- Security-focused Cloud Projects and Documentation  
+- Security-focused Cloud Projects and Documentation
+- Governance, Risk, Compliance & Privacy (risk assessments, vendor reviews, audit readiness)
 
 ## Projects
 - [Cloud Resume Challenge](https://hagedorny.dev/CRC/index.html) – Static site hosted on AWS with CI/CD pipeline and visitor counter.  
