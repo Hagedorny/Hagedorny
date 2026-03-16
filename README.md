@@ -10,7 +10,7 @@ I'm a technical professional with 10+ years in production infrastructure at stud
 - Documenting configs and topologies as I go
 
 ## Projects
-- Cisco Home Lab — Lab notes, configs, and network diagrams from my physical/virtual lab setup.
+- Cisco Home Lab - Lab notes, configs, and network diagrams from my physical/virtual lab setup.
 - [Cloud Resume Challenge](https://hagedorny.dev/CRC/index.html) – Static site hosted on AWS with CI/CD pipeline and visitor counter.  
 
 <!--
