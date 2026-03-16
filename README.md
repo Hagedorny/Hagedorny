@@ -4,10 +4,10 @@ I'm a technical professional with 10+ years in production infrastructure at stud
 
 ## Current Focus
 - Studying for my CCNA
-- Building a physical Cisco lab — ISR 4331 router, Catalyst 2960X-48 switch, Beelink Mini PC running EVE-NG
+- Building a physical Cisco lab - ISR 4331 router, Catalyst 2960X-48 switch, Beelink Mini PC running EVE-NG
 - Lab work: VLANs, inter-VLAN routing, OSPF, EIGRP, ACLs, NAT/PAT, Spanning Tree
-- Governance, Risk, Compliance & Privacy (risk assessments, vendor reviews, audit readiness)
 - Documenting configs and topologies as I go
+<!-- - Governance, Risk, Compliance & Privacy (risk assessments, vendor reviews, audit readiness)-->
 
 ## Projects
 - Cisco Home Lab - Lab notes, configs, and network diagrams from my physical/virtual lab setup.
