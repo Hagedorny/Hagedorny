@@ -1,17 +1,27 @@
 # Christian Hagedorny
 
-Welcome to my GitHub profile. I’m currently transitioning into cybersecurity and cloud engineering, building hands-on projects to strengthen my skills in security, risk management, and cloud infrastructure.  
+I'm a technical professional with 10+ years in production infrastructure at studios including Microsoft Turn 10 and Mindshow, transitioning into networking and IT infrastructure. I bring an operational mindset to everything I build systematic troubleshooting, clear documentation, and a focus on reliability.
 
 ## Current Focus
-- Cybersecurity (Security+, RMF, NIST, ISSO/GRC pathways)  
-- Cloud Engineering and Automation (AWS, Terraform, CI/CD)  
-- Security-focused Cloud Projects and Documentation
+- Studying for my CCNA
+- Building a physical Cisco lab — ISR 4331 router, Catalyst 2960X-48 switch, Beelink Mini PC running EVE-NG
+- Lab work: VLANs, inter-VLAN routing, OSPF, EIGRP, ACLs, NAT/PAT, Spanning Tree
 - Governance, Risk, Compliance & Privacy (risk assessments, vendor reviews, audit readiness)
+- Documenting configs and topologies as I go
 
 ## Projects
+- Cisco Home Lab — Lab notes, configs, and network diagrams from my physical/virtual lab setup.
 - [Cloud Resume Challenge](https://hagedorny.dev/CRC/index.html) – Static site hosted on AWS with CI/CD pipeline and visitor counter.  
+
+<!--
 - [Security Guardrails + Violation Scanner](#) – Work in progress, Terraform + Lambda-based compliance scanning tool.  
-- [Incident Response Automation Tool](#) – Planning phase, focused on AWS security response workflows.  
+- [Incident Response Automation Tool](#) – Planning phase, focused on AWS security response workflows.
+-->
+## Certs
+- CompTIA Security+ (SY0-701)
+- AWS Certified Cloud Practitioner
+- Google Cybersecurity Professional Certificate
+- CCNA (in progress)
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hagedorny3d/) or reach out directly.  
+[LinkedIn](https://www.linkedin.com/in/hagedorny3d/) | [Email](Hagedorny3d@gmail.com)
