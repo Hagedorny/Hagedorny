@@ -24,4 +24,4 @@ I'm a technical professional with 10+ years in production infrastructure at stud
 - CCNA (in progress)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/hagedorny3d/) | [Email](Hagedorny3d@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hagedorny3d/) | [Email](mailto:Hagedorny3d@gmail.com)
