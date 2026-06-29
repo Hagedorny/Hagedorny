@@ -1,27 +1,54 @@
 # Christian Hagedorny
 
-I'm a technical professional with 10+ years in production infrastructure at studios including Microsoft Turn 10 and Mindshow, transitioning into networking and IT infrastructure. I bring an operational mindset to everything I build systematic troubleshooting, clear documentation, and a focus on reliability.
+I'm an operations and production professional with 10+ years of experience coordinating complex technical and creative work across software, media, gaming, animation, and emerging compliance technology environments.
+
+My background is focused on improving workflows, coordinating cross-functional teams, supporting QA, managing vendors, documenting processes, and helping technical projects move from unclear requirements into organized execution.
 
 ## Current Focus
-- Studying for my CCNA
-- Building a physical Cisco lab - ISR 4331 router, Catalyst 2960X-48 switch, Beelink Mini PC running EVE-NG
-- Lab work: VLANs, inter-VLAN routing, OSPF, EIGRP, ACLs, NAT/PAT, Spanning Tree
-- Documenting configs and topologies as I go
-<!-- - Governance, Risk, Compliance & Privacy (risk assessments, vendor reviews, audit readiness)-->
 
-## Projects
-- Cisco Home Lab - Lab notes, configs, and network diagrams from my physical/virtual lab setup.
-- [Cloud Resume Challenge](https://hagedorny.dev/CRC/index.html) – Static site hosted on AWS with CI/CD pipeline and visitor counter.  
+- Building project management, Agile, and technical operations skills
+- Supporting product operations and QA review for a CMMC readiness platform
+- Improving workflows, documentation, usability, and platform readiness
+- Continuing hands-on technical development across cloud, networking, cybersecurity, and infrastructure concepts
+- Documenting projects, processes, configurations, and lessons learned as I go
 
-<!--
-- [Security Guardrails + Violation Scanner](#) – Work in progress, Terraform + Lambda-based compliance scanning tool.  
-- [Incident Response Automation Tool](#) – Planning phase, focused on AWS security response workflows.
--->
-## Certs
+## Project & Operations Work
+
+- **CMMC Readiness Platform Review** - Supporting product operations, QA review, workflow evaluation, documentation review, and platform-readiness feedback for an early-stage compliance technology platform.
+- **Cloud Resume Challenge** - Static site hosted on AWS with CI/CD pipeline, infrastructure documentation, and visitor counter.
+- **Cisco Home Lab** - Lab notes, configs, and network diagrams from my physical/virtual lab setup.
+- **Process & Technical Documentation** - Ongoing documentation focused on project organization, operational workflows, technical notes, and lessons learned.
+
+## Core Skills
+
+- Technical Operations
+- Production Management
+- Project Coordination
+- Program Support
+- Workflow Optimization
+- Process Improvement
+- QA / Product Review
+- Documentation
+- Vendor Coordination
+- Cross-Functional Communication
+- Agile Practices
+- Risk Identification
+- Systems Thinking
+
+## Tools & Technologies
+
+Git | GitHub | Jira | Trello | Notion | AWS | Terraform | Linux | Cisco Lab Environment | Markdown
+
+## Certifications
+
 - CompTIA Security+ (SY0-701)
 - AWS Certified Cloud Practitioner
 - Google Cybersecurity Professional Certificate
-- CCNA (in progress)
+- Software Processes and Agile Practices - University of Alberta
+- PMP - in progress
+
 
 ## Contact
+
 [LinkedIn](https://www.linkedin.com/in/hagedorny3d/) | [Email](mailto:Hagedorny3d@gmail.com)
+```
