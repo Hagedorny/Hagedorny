@@ -51,4 +51,3 @@ Git | GitHub | Jira | Trello | Notion | AWS | Terraform | Linux | Cisco Lab Envi
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/hagedorny3d/) | [Email](mailto:Hagedorny3d@gmail.com)
-```
